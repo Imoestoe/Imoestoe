@@ -2,6 +2,8 @@
 
 My name is mart, I am 16 years old and I study software development in Zwolle.
 
+<bold> Update [016/03/2022]: </bold>
+I just started my own smart-home application. I have chosen to use a new language for me: Python.
 
 <bold> Update [05/03/2022]: </bold>
 Just started using wakatime!
