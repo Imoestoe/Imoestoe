@@ -2,6 +2,9 @@
 
 My name is mart, I am 16 years old and I study software development in Zwolle.
 
+<bold> Update [30/03/2022]: </bold>
+I've been accepted to Github Copilot 🎉
+
 <bold> Update [16/03/2022]: </bold>
 I just started my own smart-home application. I have chosen to use a new language for me: Python.
 
