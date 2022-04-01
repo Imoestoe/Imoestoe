@@ -6,6 +6,9 @@ My name is mart, I am 16 years old and I study software development in Zwolle.
 I just started my project "TrainPain" with the learning goal: Improving my API knowledge.
  Learn more at: https://github.com/martvdm/trainAPI
 
+<bold> Update [31/03/2022]: </bold>
+I just started delving into Vue.js and ExpressJs
+
 <bold> Update [30/03/2022]: </bold>
 I've been accepted to Github Copilot 🎉
 
