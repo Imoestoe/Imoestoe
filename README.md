@@ -2,6 +2,10 @@
 
 My name is mart, I am 16 years old and I study software development in Zwolle.
 
+<bold> Update [19/04/2022]: </bold>
+Due to problems with my motherboard, I have unfortunately not been able to program properly in recent days. 
+I hope I can fix this soon :(
+
 <bold> Update [01/04/2022]: </bold>
 I just started my project "TrainPain" with the learning goal: Improving my API knowledge.
  Learn more at: https://github.com/martvdm/trainAPI
