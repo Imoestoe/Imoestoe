@@ -2,6 +2,12 @@
 
 My name is mart, I am 16 years old and I study software development in Zwolle.
 
+<bold> Update [28/04/2022]: </bold>
+Since today I started my new portfolio website. 
+This is because the backlog list of the small project "Trainpain"or trainapi is coming to an end.
+I'm picking up this project with Vuejs and laravel. (for me the first project with vuejs). 
+Later I want to replace the backend with Django/Symfony.
+
 <bold> Update [19/04/2022]: </bold>
 Due to problems with my motherboard, I have unfortunately not been able to program properly in recent days. 
 I hope I can fix this soon :(
