@@ -1,6 +1,6 @@
 <p style="color:red"> Hi! 👋</p>
 
-My name is mart, I am 16 years old and I study software development in Zwolle.
+My name is mart, I am 17 years old and I study software development in Zwolle.
 
 <bold> Update [28/04/2022]: </bold>
 Since today I started my new portfolio website. 
